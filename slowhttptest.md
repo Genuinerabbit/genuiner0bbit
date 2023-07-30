@@ -32,11 +32,11 @@ slowhttptest -c 8000 -X -r 200 -w 512 -y 1024 -n 5 -z 32 -k 3 -u http://192.168.
 
 我选择的第一个
 
-![执行测试]](./img/slowhttptest/执行测试.png)
+![执行测试](./img/slowhttptest/执行测试.png)
 
 再次去访问时
 
-![执行测试]](./img/slowhttptest/无法访问.png)
+![执行测试](./img/slowhttptest/无法访问.png)
 
 服务已经不能
 
